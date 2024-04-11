@@ -1,0 +1,5 @@
+2024/04/10 14:01:15 Binding queue amq.gen-tGT-aGXzMtzWxedMG4RRBA to exchange logs_direct with routing key warning
+2024/04/10 14:01:15 Binding queue amq.gen-tGT-aGXzMtzWxedMG4RRBA to exchange logs_direct with routing key error
+2024/04/10 14:01:15  [*] Waiting for logs. To exit press CTRL+C
+2024/04/10 14:02:25  [x] Run. Run. Or it will explode.
+signal: interrupt
